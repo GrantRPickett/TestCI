@@ -1,8 +1,8 @@
 {
   "name": "test",
-  "version": "1",
+  "version": "0.0.1",
   "description": "An example module to illustrate the usage of a package.json",
-  "author": "Name \<you.name@example.org>",
+  "author": "Name <you.name@example.org>",
   "contributors": [{
   "name": "Foo Bar",
   "email": "foo.bar@example.com"
