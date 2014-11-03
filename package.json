@@ -1,0 +1,40 @@
+{
+  "name": "test",
+  "version": "1",
+  "description": "An example module to illustrate the usage of a package.json",
+  "author": "Name \<you.name@example.org>",
+  "contributors": [{
+  "name": "Foo Bar",
+  "email": "foo.bar@example.com"
+}],
+  "bin": {
+  "module-name": "./bin/test"
+},
+  "scripts": {
+  },
+  "main": "lib/foo.js",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/GrantRPickett/TestCI/"
+},
+  "bugs": {
+  "url": "https://github.com/GrantRPickett/TestCI/issues"
+},
+  "keywords": [
+  "example"
+],
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+   
+  },
+  "preferGlobal": true,
+  "private": true,
+  "publishConfig": {
+  
+},
+  
+  
+  "license": "MIT"
+}
